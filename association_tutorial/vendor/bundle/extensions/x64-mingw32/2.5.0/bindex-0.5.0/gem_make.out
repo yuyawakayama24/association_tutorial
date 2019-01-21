@@ -1,0 +1,16 @@
+current directory: C:/Users/fortu/association_tutorial/association_tutorial/association_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+C:/Ruby25-x64/bin/ruby.exe -r ./siteconf20181219-1624-2xfi8h.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/fortu/association_tutorial/association_tutorial/association_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: C:/Users/fortu/association_tutorial/association_tutorial/association_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+generating cruby-x64-mingw32.def
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: C:/Users/fortu/association_tutorial/association_tutorial/association_tutorial/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20181219-1624-poc2p/bindex
